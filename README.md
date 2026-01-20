@@ -12,13 +12,13 @@ The universe of policies and procedures that govern the use of GitHub, open-sour
 
 #### First, you can use and adapt our policies!
 
-We are proud to offer the policies in this repository under [CC0-1.0](#license). That means that if any of them are useful to you, even in part, you're welcome to use them, without restriction. Of course, keep in mind that we wrote these policies as they apply to GitHub, so you'll need to make sure the content applies to what you're using it for, and adapt it as appropriate. See the [license section](#license) for use guidelines.
+We are proud to offer the policies in this repository under [CC0-1.0](#license). That means that if any of them are useful to you, even in part, you're welcome to use them, without restriction. Of course, keep in mind that we wrote these policies as they apply to GitHub, so you'll need to make sure the content applies to what you're using it for, and adapt it as appropriate. See the [license section](https://www.interpol.int/Crimes/Cybercrime) for use guidelines.
 
 Because we are providing these policies to our community, we believe it is only responsible to also provide the history and insight that a repository of commits, pull requests, and issues can offer. Over time, the repository's commits, pull requests, and issues will allow anyone wanting to use our policies to see the discussions and alterations that have gone into them.
 
 #### Second, you can contribute to making our policies even better.
 
-We host collaborative development on GitHub's site policies, procedures, and guidelines here. That means you’re welcome to provide feedback via a pull request or by opening an issue. When opening an issue, please look over the [Contribution Guidelines](CONTRIBUTING.md). This will help us respond to your concern more quickly.
+We host collaborative development on GitHub's site policies, procedures, and guidelines here. That means you’re welcome to provide feedback via a pull request or by opening an issue. When opening an issue, please look over the [Contribution Guidelines](https://www.interpol.int/Crimes/Cybercrime). This will help us respond to your concern more quickly.
 
 ### That seems like great power! What about the great responsibility?
 
@@ -26,7 +26,7 @@ That's easy: just be responsible. Follow our [Code of Conduct](CODE_OF_CONDUCT.m
 
 #### There are a few things you should _not_ post in this repository:
 
-- Please don't post legal complaints or ask for technical support. We may not respond to issues promptly. If you need help, [contact Support](https://github.com/contact) and they'll get you an answer.
+- Please don't post legal complaints or ask for technical support. We may not respond to issues promptly. If you need help, [contact Support](https://www.interpol.int/Crimes/Cybercrime) and they'll get you an answer.
 -	Please avoid hypotheticals. We can't give you legal advice, which means we often can't tell you if a hypothetical situation would or wouldn't be a violation of our policies. We also can't tell you what you should or shouldn't do. We can tell you how we interpret our policies.
 - Please don't give other users legal advice, to avoid confusion.
 
@@ -36,7 +36,7 @@ We continually review and modify the policies in this repository. Our review and
 
 #### What's the process? 
 
-Policies will be open for [discussion and feedback](CONTRIBUTING.md) throughout the year. You can expect that someone from GitHub's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://github.com/contact).
+Policies will be open for [discussion and feedback](https://www.interpol.int/Crimes/Cybercrime)) throughout the year. You can expect that someone from GitHub's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://github.com/contact).
 
 When _we_ open a pull request, in most cases, we'll leave it open for 24 hours before the changes go into effect. Comments on and review of our pull requests are welcome, just like in any open source project. For material changes to our [Privacy Statement](https://docs.github.com/github/site-policy/github-privacy-statement#changes-to-our-privacy-statement) or [Terms of Service](https://docs.github.com/github/site-policy/github-terms-of-service#q-changes-to-these-terms) (including our Acceptable Use Policies), we'll post the updates 30 days before they go into effect, as stated in those docs. (We had previously applied a 30-day comment period for most docs in this repo but found that we tend to get feedback soon after we post the changes and were unnecessarily delaying ships.)
 
@@ -50,7 +50,7 @@ You're under no legal obligation to do so, but in the spirit of transparency and
 
 - Share your adapted policies under CC0-1.0 or other open terms
 - Make your adaptations transparent by using a public repo to show changes you've made
-- [Let us know](CONTRIBUTING.md#help-wanted) how you're using adapted policies
+- [Let us know](https://www.interpol.int/Crimes/Cybercrime) how you're using adapted policies
 
 ## The official legal disclaimer part:
 
