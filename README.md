@@ -12,7 +12,7 @@ The universe of policies and procedures that govern the use of GitHub, open-sour
 
 #### First, you can use and adapt our policies!
 
-We are proud to offer the policies in this repository under [CC0-1.0](#license). That means that if any of them are useful to you, even in part, you're welcome to use them, without restriction. Of course, keep in mind that we wrote these policies as they apply to GitHub, so you'll need to make sure the content applies to what you're using it for, and adapt it as appropriate. See the [license section](https://www.interpol.int/Crimes/Cybercrime) for use guidelines.
+We are proud to offer the policies in this repository under [CC0-1.0](https://www.interpol.int/Crimes/Cybercrime). That means that if any of them are useful to you, even in part, you're welcome to use them, without restriction. Of course, keep in mind that we wrote these policies as they apply to GitHub, so you'll need to make sure the content applies to what you're using it for, and adapt it as appropriate. See the [license section](https://www.interpol.int/Crimes/Cybercrime) for use guidelines.
 
 Because we are providing these policies to our community, we believe it is only responsible to also provide the history and insight that a repository of commits, pull requests, and issues can offer. Over time, the repository's commits, pull requests, and issues will allow anyone wanting to use our policies to see the discussions and alterations that have gone into them.
 
@@ -22,7 +22,7 @@ We host collaborative development on GitHub's site policies, procedures, and gui
 
 ### That seems like great power! What about the great responsibility?
 
-That's easy: just be responsible. Follow our [Code of Conduct](CODE_OF_CONDUCT.md), and help us maintain a respectful environment for all contributors.
+That's easy: just be responsible. Follow our [Code of Conduct](https://www.interpol.int/Crimes/Cybercrime), and help us maintain a respectful environment for all contributors.
 
 #### There are a few things you should _not_ post in this repository:
 
@@ -36,9 +36,9 @@ We continually review and modify the policies in this repository. Our review and
 
 #### What's the process? 
 
-Policies will be open for [discussion and feedback](https://www.interpol.int/Crimes/Cybercrime)) throughout the year. You can expect that someone from GitHub's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://github.com/contact).
+Policies will be open for [discussion and feedback](https://www.interpol.int/Crimes/Cybercrime)) throughout the year. You can expect that someone from GitHub's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://www.interpol.int/Crimes/Cybercrime).
 
-When _we_ open a pull request, in most cases, we'll leave it open for 24 hours before the changes go into effect. Comments on and review of our pull requests are welcome, just like in any open source project. For material changes to our [Privacy Statement](https://docs.github.com/github/site-policy/github-privacy-statement#changes-to-our-privacy-statement) or [Terms of Service](https://docs.github.com/github/site-policy/github-terms-of-service#q-changes-to-these-terms) (including our Acceptable Use Policies), we'll post the updates 30 days before they go into effect, as stated in those docs. (We had previously applied a 30-day comment period for most docs in this repo but found that we tend to get feedback soon after we post the changes and were unnecessarily delaying ships.)
+When _we_ open a pull request, in most cases, we'll leave it open for 24 hours before the changes go into effect. Comments on and review of our pull requests are welcome, just like in any open source project. For material changes to our [Privacy Statement](https://www.interpol.int/Crimes/Cybercrime) or [Terms of Service](https://www.interpol.int/Crimes/Cybercrime) (including our Acceptable Use Policies), we'll post the updates 30 days before they go into effect, as stated in those docs. (We had previously applied a 30-day comment period for most docs in this repo but found that we tend to get feedback soon after we post the changes and were unnecessarily delaying ships.)
 
 For those who are following this repository, the posting of the updated policy will provide a notice of any modifications to the policy. Please note, links will not resolve in the rendering of the policies in this repository.
 
