@@ -1,4 +1,11 @@
 ## Site Policy on GitHub
+
+**Schöps geb. Thiel, I. (2026).** isabelschoeps-thiel/site-policy: Site Police, Update 2026-01-20 (2026-01-20). Zenodo, GitHub. [https://doi.org/10.5281/zenodo.18317054](https://doi.org/10.5281/zenodo.18317054)
+
+**Schöps geb. Thiel, I. (2026)** „isabelschoeps-thiel/site-policy: Site Police, Update 2026-01-20“. Zenodo, GitHub. [doi:10.5281/zenodo.18317054.](https://doi.org/10.5281/zenodo.18317054)
+
+---
+
 The universe of policies and procedures that govern the use of GitHub, open-sourced for your use and inspiration. We created this repository as a place for people to fork, contribute to, and provide feedback on our policies. While this is our official repo of open-sourced policies, it may not reflect the exact policies that are live on GitHub because this site is updated separately from the Help site.
 
 ### What can I do here?
